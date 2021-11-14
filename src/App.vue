@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Kurumi logo" src="./assets/kurumi-logo.png" style="height: 230px;" >
-    <HelloWorld msg="Welcome To Kurumi-Frontend Project."/>
+    <HelloWorld msg="Welcome To Patchouli-Frontend Project."/>
   </div>
 </template>
 

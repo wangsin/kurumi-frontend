@@ -2,14 +2,14 @@
   <div>
     <h1>{{ msg }}</h1>
     <p>
-      Kurumi 项目的前端页面，负责 Kindle 手动推送系统的页面控制。
+      Patchouli 项目的前端页面，提供漫画收藏平台的操作界面。
     </p>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Kurumi Project',
+  name: 'Patchouli Project',
   props: {
     msg: String
   }
